@@ -1,0 +1,10 @@
+Tạo project với git
+
+- Tạo 1 project trên GitHub
+  + Tạo 1 GitHub repository(folder) - nơi chứa code
+  + Clone project này: git clone link_your_pro
+  + Viết code
+	. git status (kiểm tra trạng thais files)
+	. git add . (them files)
+	. git commit -m "your_message" (tạo nội dung commit)
+	. git push origin main
